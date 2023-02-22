@@ -2,6 +2,7 @@ Vagrant.configure("2") do |config|
   config.vm.provider "virtualbox" do |vb|
     vb.memory = 1204
     vb.cpus = 2
+    vb.name = "vagrant-ansible"
   end
   
   config.vm.box = "hashicorp/bionic64"
