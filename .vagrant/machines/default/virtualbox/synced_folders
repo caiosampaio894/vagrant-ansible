@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/home/caio/curso_ansible/vagrant-ansible/site","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/caio/curso_ansible/vagrant-ansible","disabled":false,"__vagrantfile":true}}}

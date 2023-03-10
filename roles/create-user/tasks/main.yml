@@ -1,0 +1,9 @@
+---
+# tasks file for create-user
+- name: create user
+  user:
+          name: caio
+          shell: /bin/bash
+          password: "{{ password }}"
+
+...

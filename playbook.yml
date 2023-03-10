@@ -3,4 +3,5 @@
   become: yes  
   roles:
     - role: 'roles/common'
-    - role: 'roles/nginx'   
+    - role: 'roles/nginx'
+    - role: 'roles/create-user'   
